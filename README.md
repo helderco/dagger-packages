@@ -1,2 +1,3 @@
-# dagger-packages
-Experimental module with reusable dagger packages
+# Packages for Dagger.io
+
+Warning: This is experimental, do not depend on this repo.
