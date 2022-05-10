@@ -11,10 +11,12 @@ Traefik: {
         http: null | int | *80
         https: null | int | *443
     }
+
     D=dashboard?: {
         domain: string
         users: [...string]
     }
+
     H=host?: {
         ip: string
         port: string | *"8080"
